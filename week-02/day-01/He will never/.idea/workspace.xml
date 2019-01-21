@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="_Solar_system" targetName="_Solar_system" />
+      <config projectName="He_will_never" targetName="He_will_never" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,13 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57eaca4e-9e6f-4d52-b1e8-e9e4ed7d15b4" name="Default Changelist" comment="">
+    <list default="true" id="2253f560-9f80-41b9-a44d-62ef6256fe10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Reverse list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Reverse list/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Unique/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Unique/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Unique/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Unique/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ Solar system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ Solar system/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            <state relative-caret-position="374">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -67,8 +68,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,7 +88,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="_Solar_system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="_Solar_system" TARGET_NAME="_Solar_system" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="_Solar_system" RUN_TARGET_NAME="_Solar_system">
+    <configuration name="He_will_never" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="He_will_never" TARGET_NAME="He_will_never" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="He_will_never" RUN_TARGET_NAME="He_will_never">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -98,17 +99,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="57eaca4e-9e6f-4d52-b1e8-e9e4ed7d15b4" name="Default Changelist" comment="" />
-      <created>1548074131731</created>
+      <changelist id="2253f560-9f80-41b9-a44d-62ef6256fe10" name="Default Changelist" comment="" />
+      <created>1548077070996</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548074131731</updated>
-      <workItem from="1548074133170" duration="2900000" />
+      <updated>1548077070996</updated>
+      <workItem from="1548077072292" duration="511000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2900000" />
+    <option name="totallyTimeSpent" value="511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -118,11 +119,11 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Messages" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="CMake" weight="0.3286119" />
+      <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -142,8 +143,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        <state relative-caret-position="374">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
