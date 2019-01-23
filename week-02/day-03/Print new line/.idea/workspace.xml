@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Divide_by_zero" targetName="Divide_by_zero" />
+      <config projectName="Print_new_line" targetName="Print_new_line" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,13 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09810240-b154-4290-9cdc-382e7a9faf36" name="Default Changelist" comment="">
+    <list default="true" id="f5029650-7f02-47f2-a3a9-fc83fc7f5310" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Reverse list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Reverse list/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Unique/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Unique/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Unique/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Unique/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Divide by zero/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Divide by zero/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -64,7 +62,9 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -90,7 +90,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Divide_by_zero" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Divide_by_zero" TARGET_NAME="Divide_by_zero" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Divide_by_zero" RUN_TARGET_NAME="Divide_by_zero">
+    <configuration name="Print_new_line" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Print_new_line" TARGET_NAME="Print_new_line" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Print_new_line" RUN_TARGET_NAME="Print_new_line">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -101,17 +101,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="09810240-b154-4290-9cdc-382e7a9faf36" name="Default Changelist" comment="" />
-      <created>1548247076986</created>
+      <changelist id="f5029650-7f02-47f2-a3a9-fc83fc7f5310" name="Default Changelist" comment="" />
+      <created>1548247782710</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548247076986</updated>
-      <workItem from="1548247080809" duration="682000" />
+      <updated>1548247782710</updated>
+      <workItem from="1548247784118" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="682000" />
+    <option name="totallyTimeSpent" value="1351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -145,11 +145,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
