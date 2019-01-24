@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4615cb03-fddb-4a87-ab78-165484be549f" name="Default Changelist" comment="">
+    <list default="true" id="315a11b2-5cdd-47c6-849d-e3cbe708c44b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" afterDir="false" />
@@ -19,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Unique/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Unique/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Unique/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Unique/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-03/Logs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-03/Logs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../To the center/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../To the center/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="110" column="26" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+            <state relative-caret-position="372">
+              <caret line="107" column="22" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -102,20 +103,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4615cb03-fddb-4a87-ab78-165484be549f" name="Default Changelist" comment="" />
-      <created>1548332947361</created>
+      <changelist id="315a11b2-5cdd-47c6-849d-e3cbe708c44b" name="Default Changelist" comment="" />
+      <created>1548334105286</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548332947361</updated>
-      <workItem from="1548332948675" duration="1139000" />
+      <updated>1548334105286</updated>
+      <workItem from="1548334106593" duration="400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1139000" />
+    <option name="totallyTimeSpent" value="400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
@@ -145,8 +147,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="110" column="26" selection-start-line="110" selection-start-column="26" selection-end-line="110" selection-end-column="26" />
+        <state relative-caret-position="372">
+          <caret line="107" column="22" selection-start-line="107" selection-start-column="22" selection-end-line="107" selection-end-column="22" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
