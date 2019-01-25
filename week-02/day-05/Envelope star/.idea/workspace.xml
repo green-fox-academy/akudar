@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e668e3f3-96ef-430a-9987-359e264966a1" name="Default Changelist" comment="">
+    <list default="true" id="5767b585-6289-48f3-9f91-4f645946bd06" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" afterDir="false" />
@@ -22,6 +22,7 @@
       <change beforePath="$PROJECT_DIR$/../../day-03/Logs/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-03/Logs/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-04/Rainbow boxes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-04/Rainbow boxes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-04/Rainbow boxes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-04/Rainbow boxes/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+            <state relative-caret-position="222">
+              <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -68,16 +69,14 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,18 +106,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e668e3f3-96ef-430a-9987-359e264966a1" name="Default Changelist" comment="" />
-      <created>1548406327943</created>
+      <changelist id="5767b585-6289-48f3-9f91-4f645946bd06" name="Default Changelist" comment="" />
+      <created>1548408584639</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548406327943</updated>
-      <workItem from="1548406329920" duration="2201000" />
-      <workItem from="1548408616540" duration="113000" />
+      <updated>1548408584639</updated>
+      <workItem from="1548408586049" duration="27000" />
+      <workItem from="1548408734839" duration="1194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2314000" />
+    <option name="totallyTimeSpent" value="1221000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -127,6 +126,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
@@ -135,11 +135,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -152,8 +151,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        <state relative-caret-position="222">
+          <caret line="52" column="10" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
