@@ -24,13 +24,23 @@ void Ship::fillShip() {
 
 void Ship::shipsState() {
 
+    int crewSize = 0;
+
+    for (int i = 0; i < crew.size(); ++i) {
+
+        if (crew[i].getState() != 0) {
+
+            crewSize++;
+        }
+    }
+
     switch (crew[0].getState()) {
 
-        case 0: std::cout << "The Captain is dead! Number of crew: " << crew.size() << std::endl;
+        case 0: std::cout << "The Captain is dead! Number of crew: " << crewSize << std::endl;
             break;
-        case 1: std::cout << "The Captain is alive, but passed out! Number of crew: " << crew.size() << std::endl;
+        case 1: std::cout << "The Captain is alive, but passed out! Number of crew: " << crewSize << std::endl;
             break;
-        case 2: std::cout << "The Captain is awake! Number of crew: " << crew.size() << std::endl;
+        case 2: std::cout << "The Captain is awake! Number of crew: " << crewSize << std::endl;
             break;
     }
 }
