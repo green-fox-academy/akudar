@@ -12,7 +12,7 @@ class Ship {
 
 public:
 
-    Ship(std::string *shipName);
+    Ship(std::string shipName);
     void fillShip();
     void shipsState();
     bool battle(Ship otherS);

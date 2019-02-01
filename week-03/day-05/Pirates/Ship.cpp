@@ -5,9 +5,9 @@
 #include "Ship.h"
 #include "Pirate.h"
 
-Ship::Ship(std::string *shipName) {
+Ship::Ship(std::string shipName) {
 
-    name = *shipName;
+    name = shipName;
 }
 
 void Ship::fillShip() {
