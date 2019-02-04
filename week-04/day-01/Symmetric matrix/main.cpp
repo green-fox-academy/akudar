@@ -2,7 +2,7 @@
 
 bool isSymmetric(int **matrix, int column, int size)
 {
-    int tempMatrix[column][size;
+    int tempMatrix[column][size];
 
     for (int i = 0; i < column; ++i) {
         for (int j = 0; j < size; ++j) {
