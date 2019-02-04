@@ -6,11 +6,13 @@
 char mostCommonChar(std::string fileName)
 {
     char mostCommon;
+    int counter = 0;
+    int mostUsed = 0;
     std::ifstream myFile;
     std::string text;
 
     try {
-        if (true) {
+        if (myFile.good()) {
             myFile.open(fileName);
         } else {
             throw 0;
@@ -20,9 +22,15 @@ char mostCommonChar(std::string fileName)
         std::cout << "File does not exist!" << std::endl;
     }
     getline(myFile, text);
-    for (int i = 0; i < text.size(); ++i) {
-        if (text[i]) {
 
+    for (int j = 0; j < text.size(); ++j) {
+        for (int i = 0; i < text.size(); ++i) {
+            if (text[j] == text[i]) {
+                counter++;
+            }
+        }
+        if (mostUsed < counter) {
+            mostUsed = counter;
         }
     }
     myFile.close();
