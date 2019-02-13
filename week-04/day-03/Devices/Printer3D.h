@@ -12,7 +12,7 @@ class Printer3D : public Printer{
 public:
 
     Printer3D(int x, int y, int z);
-    std::string getSize();
+    std::string getSize() override;
 };
 
 

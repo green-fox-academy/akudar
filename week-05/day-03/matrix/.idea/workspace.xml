@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="matrix" targetName="matrix" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b19a86c0-b0cd-42c9-ab93-89907691a053" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/.idea/Refactor Maximum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/.idea/day-04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/MyApp_Lib/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/MyApp_Lib/MyClass.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/MyApp_Lib/MyClass.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/MyApp_tests/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../week-04/day-04/MyApp_tests/MyClassTest.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Factorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Matrix/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Reverse list/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Reverse list/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Unique/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Unique/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-01/day4/Unique/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-01/day4/Unique/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-03/Logs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-03/Logs/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-03/Logs/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-03/Logs/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-04/Rainbow boxes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-04/Rainbow boxes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-04/Rainbow boxes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-04/Rainbow boxes/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-05/Envelope star/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-05/Envelope star/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-05/Project01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-05/Project01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-02/day-05/Triangles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-05/Triangles/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Most Common Character/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-04/day-01/Most Common Character/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Symmetric matrix/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-04/day-01/Symmetric matrix/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Symmetric matrix/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-04/day-01/Symmetric matrix/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/.idea/Trial Exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-02/day-02/Refactor Maximum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-01/Trial Exam/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-04/day-04/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-02/The Garden Application/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-04/day-02/The Garden Application/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-03/Devices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-04/day-03/Devices/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-03/Devices/Printer.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-04/day-03/Devices/Printer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../week-04/day-03/Devices/Printer3D.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-04/day-03/Devices/Printer3D.h" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="matrix" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="matrix" TARGET_NAME="matrix" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="matrix" RUN_TARGET_NAME="matrix">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b19a86c0-b0cd-42c9-ab93-89907691a053" name="Default Changelist" comment="" />
+      <created>1550048646806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550048646806</updated>
+      <workItem from="1550048650481" duration="7897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7897000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.43459916" visible="true" weight="0.37181208" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Debug" order="3" sideWeight="0.56540084" side_tool="true" weight="0.37181208" />
+      <window_info anchor="bottom" id="CMake" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="40" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

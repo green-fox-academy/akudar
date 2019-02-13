@@ -22,6 +22,9 @@
       <change beforePath="$PROJECT_DIR$/../../day-03/Logs/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-03/Logs/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-04/Rainbow boxes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-04/Rainbow boxes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-04/Rainbow boxes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-04/Rainbow boxes/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +77,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -113,17 +116,19 @@
       <workItem from="1548408586049" duration="27000" />
       <workItem from="1548408734839" duration="1194000" />
       <workItem from="1548410032984" duration="93000" />
+      <workItem from="1548444414145" duration="30000" />
+      <workItem from="1548523815994" duration="64000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1314000" />
+    <option name="totallyTimeSpent" value="1408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

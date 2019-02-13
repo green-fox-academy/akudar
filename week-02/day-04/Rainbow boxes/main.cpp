@@ -110,10 +110,10 @@ int main( int argc, char* args[] )
         SDL_Color color = {255, 0 , 255};
         int size = 640;
 
-        for (int i = 0; i < 10; ++i) {
+        for (int i = 0; i < 100; ++i) {
 
             draw(size, color);
-            size *= 0.7;
+            size *= 0.90;
             color.r += 50;
             color.g += 30;
             color.b += 70;

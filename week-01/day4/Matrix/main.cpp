@@ -24,7 +24,6 @@ int main() {
 
 void sizeOfMatrix(int rows, int columns){
 
-    int matrix[rows][columns];
     int x = 0;
 
     for (int i = 0; i < rows; i++) {

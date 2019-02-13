@@ -22,6 +22,9 @@
       <change beforePath="$PROJECT_DIR$/../../day-03/Logs/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-03/Logs/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-04/Rainbow boxes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-04/Rainbow boxes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../day-04/Rainbow boxes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-04/Rainbow boxes/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Envelope star/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Envelope star/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Triangles/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Triangles/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,17 +117,20 @@
       <updated>1548406327943</updated>
       <workItem from="1548406329920" duration="2201000" />
       <workItem from="1548408616540" duration="113000" />
+      <workItem from="1548444453399" duration="30000" />
+      <workItem from="1548523941559" duration="52000" />
+      <workItem from="1548662978446" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2314000" />
+    <option name="totallyTimeSpent" value="2398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />

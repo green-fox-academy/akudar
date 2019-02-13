@@ -44,12 +44,19 @@ int main() {
 
     readFile.close();
 
-    for (int k = 0; k < size-1; ++k) {
-        for (int i = 1; i < size; ++i) {
 
-            if (bigArray[k] != bigArray[i])
-                size2++;
+    for (int k = 0; k < size; ++k) {
+        bool isDuplicate = false;
+        for (int i = 0; i < size; ++i) {
+
+            if (k != i) {
+                if (bigArray[k] == bigArray[i]) {
+                    isDuplicate = true;
+                }
+            }
         }
+        if (!isDuplicate)
+            size2++;
     }
 
     std::cout << size2;

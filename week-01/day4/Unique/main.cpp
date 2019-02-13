@@ -10,24 +10,32 @@
 // std::cout << (unique(numbers)) << std::endl;
 //  should print: `[1, 11, 34, 52, 61]`
 
-int* unique(int inputArray[]);
+int* unique(int inputArray[], int sizeOfArray);
 
 int main() {
 
-    int withDuplicate[] = {1,3,6,2,4,7,7};
+    int withDuplicate[] = {1,3,6,2,7,7,8};
 
-    std::cout << unique(withDuplicate);
+    int* p = unique(withDuplicate, 7);
+
+    for (int i = 0; i < 6; ++i) {
+
+        std::cout << p[i] << std::endl;
+    }
+
 
     return 0;
 }
 
-int* unique(int inputArray[]) {
+int* unique(int inputArray[], int sizeOfArray) {
 
-    bool isDuplicate = false;
+    bool isDuplicate;
     int size = 0;
 
-    for (int i = 0; i < sizeof(inputArray)/ sizeof(inputArray[0]); ++i) {
-        for (int j = 0; j < sizeof(inputArray)/ sizeof(inputArray[0]); ++j) {
+    for (int i = 0; i < sizeOfArray-1; ++i) {
+
+        isDuplicate = false;
+        for (int j = i+1; j < sizeOfArray; ++j) {
 
             if (inputArray[i] == inputArray[j]){
 
@@ -44,8 +52,10 @@ int* unique(int inputArray[]) {
 
     int noDuplicate[size];
 
-    for (int k = 0; k < sizeof(inputArray)/ sizeof(inputArray[0]); ++k) {
-        for (int i = 0; i < sizeof(inputArray)/ sizeof(inputArray[0]); ++i) {
+    for (int k = 0; k < sizeOfArray-1; ++k) {
+
+        isDuplicate = false;
+        for (int i = k+1; i < sizeOfArray; ++i) {
 
             if (inputArray[k] == inputArray[i]) {
 

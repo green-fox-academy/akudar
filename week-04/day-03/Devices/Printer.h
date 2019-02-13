@@ -6,7 +6,7 @@ class Printer {
 
 public:
     virtual std::string getSize() = 0;
-    virtual void print();
+    void print();
 };
 
 

@@ -14,7 +14,7 @@ bool isSymmetric(int **matrix, int column, int size)
     for (int k = 0; k < column; ++k) {
         for (int i = 0; i < size; ++i) {
 
-            if (tempMatrix[k][i] != tempMatrix[k][size-i]) {
+            if (tempMatrix[i][k] != tempMatrix[k][i]) {
                 return false;
             }
         }
