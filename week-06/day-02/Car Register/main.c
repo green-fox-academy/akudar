@@ -11,7 +11,7 @@ enum transmission
 
 typedef struct
 {
-    char manufacturer;
+    char *manufacturer;
     float price;
     int made_in;
     enum transmission t_type;
