@@ -49,11 +49,10 @@ classes_t create_class()
     return class;
 }
 
-class_n_diff_t biggest_difference(classes_t *array, unsigned int array_length)
+class_n_diff_t* biggest_difference(classes_t *array, unsigned int array_length, class_n_diff_t *return_value)
 {
     class_n_diff_t *name_diff_array;
     name_diff_array = (class_n_diff_t*)calloc(array_length, sizeof(class_n_diff_t));
-    class_n_diff_t name_diff;
 
     for (int i = 0; i < array_length; ++i) {
         float min = 101;
@@ -70,19 +69,20 @@ class_n_diff_t biggest_difference(classes_t *array, unsigned int array_length)
         name_diff_array[i].r_diff = max - min;
     }
 
-    name_diff.r_diff = name_diff_array[0].r_diff;
+    return_value->r_diff = name_diff_array[0].r_diff;
+    strcpy(return_value->c_name, name_diff_array[0].c_name);
 
     for (int k = 0; k < array_length-1; ++k) {
         if (name_diff_array[k].r_diff < name_diff_array[k+1].r_diff) {
-            name_diff.r_diff = name_diff_array[k+1].r_diff;
-            strcpy(name_diff.c_name, name_diff_array[k+1].c_name);
+            return_value->r_diff = name_diff_array[k+1].r_diff;
+            strcpy(return_value->c_name, name_diff_array[k+1].c_name);
         }
     }
 
-    return name_diff;
+    return name_diff_array;
 }
 
-char* best_exam_class(classes_t *array, unsigned int array_length)
+best_exam_t* best_exam_class(classes_t *array, unsigned int array_length, char* return_value)
 {
     best_exam_t *best_exam_array;
     best_exam_array = (best_exam_t*)calloc(array_length, sizeof(class_n_diff_t));
@@ -109,9 +109,10 @@ char* best_exam_class(classes_t *array, unsigned int array_length)
 
     for (int l = 0; l < array_length; ++l) {
         if (strcmp(array[l].name, best_class.c_name) == 0) {
-            return array[l].name;
+             strcpy(return_value, array[l].name);
         }
     }
+    return best_exam_array;
 }
 
 float average(classes_t *array, unsigned int array_length)
@@ -144,10 +145,14 @@ int main() {
         classes[i] = create_class();
     }
 
-    class_n_diff_t to_print = biggest_difference(classes, c_size);
+    class_n_diff_t to_print_diff;
+    class_n_diff_t *to_free_p1 = biggest_difference(classes, c_size, &to_print_diff);
 
-    printf("Class: %s Difference: %f\n", to_print.c_name, to_print.r_diff);
-    printf("Best: %s\n", best_exam_class(classes, c_size));
+    char to_print_best[50];
+    best_exam_t *to_free_p2 = best_exam_class(classes, c_size, to_print_best);
+
+    printf("Class: %s Difference: %f\n", to_print_diff.c_name, to_print_diff.r_diff);
+    printf("Best: %s\n", to_print_best);
     printf("Average: %f\n", average(classes, c_size));
 
     for (int k = 0; k < c_size; ++k) {
@@ -155,6 +160,8 @@ int main() {
         free(classes[k].results);
     }
     free(classes);
+    free(to_free_p1);
+    free(to_free_p2);
 
     return 0;
 }
