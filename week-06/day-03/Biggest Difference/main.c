@@ -102,6 +102,8 @@ char* best_exam_class(classes_t *array, unsigned int array_length)
     for (int k = 0; k < array_length-1; ++k) {
         if (best_exam_array[k].r_best < best_exam_array[k+1].r_best) {
             strcpy(best_class.c_name, best_exam_array[k+1].c_name);
+        } else {
+            strcpy(best_class.c_name, best_exam_array[k].c_name);
         }
     }
 
@@ -115,14 +117,16 @@ char* best_exam_class(classes_t *array, unsigned int array_length)
 float average(classes_t *array, unsigned int array_length)
 {
     float average = 0;
+    int counter = 0;
 
     for (int i = 0; i < array_length; ++i) {
         for (int j = 0; j < array[i].n_of_students; ++j) {
             average += array[i].results[j];
+            counter++;
         }
     }
 
-    return average / array->n_of_students;
+    return average / counter;
 }
 
 
